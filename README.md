@@ -1,3 +1,3 @@
 # Vue-CRUD-Book-Api
 
-- Book CRUD with vue using a Srpingboot api backend.
+- Book CRUD with vue using a Springboot api backend.
